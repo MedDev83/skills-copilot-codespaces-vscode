@@ -12,7 +12,7 @@ GitHub Copilot provides suggestions for numerous languages and a wide variety of
 
 Let's try this out utilizing Javascript for Copilot.
 
-### :keyboard: Activity: Add a Javascript file and start writing code
+### ⌨️ Activity: Add a Javascript file and start writing code
 
 1. From inside the codespace in the VS Code explorer window, create a new file.
 
